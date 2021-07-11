@@ -1,1 +1,1 @@
-<?php echo shell_exec("phpinfo()");?>
+<?php echo shell_exec("whoami");?>
